@@ -1,5 +1,5 @@
 # NDC
--NED (Nexon Developrt Conference) Speeches
+-NDC (Nexon Developrt Conference) Speeches
 
 # Patent
 
