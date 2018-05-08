@@ -1,2 +1,5 @@
-# patent   : kroea, japan, taiwan, us patent
-# speeches : NDC (Nexon Developrt Conference)
+# patent   
+- kroea, japan, taiwan, us patent
+
+# speeches
+- NDC (Nexon Developrt Conference)
