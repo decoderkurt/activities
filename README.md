@@ -1,5 +1,5 @@
 # patent   
 - kroea, japan, china, us 
 
-# speeches
+# speech
 - NDC (Nexon Developrt Conference)
