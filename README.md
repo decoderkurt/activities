@@ -1,6 +1,5 @@
-# NDC
--NDC (Nexon Developrt Conference) Speeches
+# patent   
+- kroea, japan, china, us 
 
-# Patent
-
-
+# speeches
+- NDC (Nexon Developrt Conference)
